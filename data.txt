@@ -1,0 +1,1 @@
+//AQUI FICARÃO TODOS OS RESULTADOS DA MEGA-SENA DE TODOS OS ANOS QUE O ARQUIVO "apiLoterias.js" irá buscar na api da loterias.
